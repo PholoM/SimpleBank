@@ -12,9 +12,10 @@ has the following functions:
 in the main menu. In addition to these, there is also
 
 -> ChecckInput() which insures the input is the expected type
+
 -> checkPin() and checkUser() which compares the login credentials against those contained in the program.
 
-[This is what is to be expected for the upcoming levels]
+This is what is to be expected for the upcoming levels
 -> Level 2: separate class into its own file, enter and store new users in an encrypted textfile.
 -> Level 3: New functionality: show history and produce mini-statement.
 -> Level 3: Introduce a card as an identification token.
